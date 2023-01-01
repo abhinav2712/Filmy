@@ -1,14 +1,6 @@
 import Image from "next/image"
 import HeaderItem from "./HeaderItem"
-import {
-    HomeIcon,
-    BadgeCheckIcon,
-    CollectionIcon,
-    LightningBoltIcon,
-    SearchIcon,
-    UserIcon,
-    BeakerIcon
-} from '@heroicons/react/solid'
+
 
 import * as Unicons from '@iconscout/react-unicons';
 
